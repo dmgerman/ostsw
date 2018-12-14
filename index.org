@@ -85,13 +85,27 @@ There are several documented techniques:
 * Accessories
 
 - bench dogs
+  - [[https://benchdogs.co.uk/collections/all][bench-dogs]]
+  
 - clamps
+   
 - fences
-  - the festool's (requires their tracks too)
-  - bench-dogs
+  - the festool's (requires their tracks too) (see below under parts)
+  - [[https://benchdogs.co.uk/collections/all][bench-dogs]]
+
 - extensions
 
 - [[https://www.youtube.com/watch?v=SzsarjHF0Ms][Dan Pattison accessories for MPT]]
+
+* parts
+
+Festool sells every part:
+
+- 497022 Support: back support for the track saw
+- 497023 Support unit: front support for the track saw
+- 472862 Aluminum Profile: on the sides of the table
+
+
 
 * Tips and tricks on how to use a track saw
 
