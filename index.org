@@ -1,0 +1,101 @@
+#+STARTUP: showall
+#+STARTUP: lognotestate
+#+TAGS: research(r) uvic(u) today(y) todo(t) cooking(c)
+#+SEQ_TODO: TODO(t) STARTED(s) DEFERRED(r) CANCELLED(c) | WAITING(w) DELEGATED(d) APPT(a) DONE(d) 
+#+DRAWERS: HIDDEN STATE
+#+ARCHIVE: %s_done::
+#+TITLE: The Open Source Track Saw Workshop
+#+CATEGORY: 
+#+PROPERTY: header-args:sql             :engine postgresql  :exports both :cmdline csc370
+#+PROPERTY: header-args:sqlite          :db /path/to/db  :colnames yes
+#+PROPERTY: header-args:C++             :results output :flags -std=c++14 -Wall --pedantic -Werror
+#+PROPERTY: header-args:R               :results output  :colnames yes
+#+OPTIONS: ^:nil
+
+
+Building a workshop around a track saw.
+
+* The multifunction table
+
+** Why/Motivation
+
+** Its uses
+
+
+** Variations
+
+- [[https://www.youtube.com/watch?v=BZPy8gztEaM][The festool MFT/3]]
+- [[https://www.youtube.com/watch?v=KnNi6Tpp-ac][The Paulk workbench 2]]
+- [[https://www.youtube.com/watch?v=VlM0aQ-VpUM][Mike Farrington workbench]]
+- [[https://www.youtube.com/watch?v=t5YzIwK-g0E][Timothy Wilmots' Multifunction workbench MFTC]]
+  Easy to move around table
+  - [[https://www.youtube.com/watch?v=A-CBheMzxpw][How to build it (using CNC)]]
+  - Plans for sale
+
+
+- [[https://www.youtube.com/watch?v=vrZilXo3xBk][Timothy Wilmot's multifunction shop cart MFSC]]
+  - [[https://www.youtube.com/watch?v=EWEdrBdbBhg][another video]]
+  A nifty table/cart
+  - Plans for sale
+- [[https://www.youtube.com/watch?v=DplAivn_3i0][Feddie-Stool MFT (Multi Function Table)]] 
+  Requires a CNC
+- [[https://www.youtube.com/watch?v=5-SzRbVPob0][David Stanton's tabletop]]
+  Can set on top of any surface
+- [[https://www.youtube.com/watch?v=SzsarjHF0Ms][Dan Pattison Multi-Purpose Table (MPT)]]
+  - Can be disassembled for easy transport
+- [[https://www.youtube.com/watch?v=jaJ-O4gG7Dg][Mirock's table/torsion box]]
+- [[https://www.youtube.com/watch?v=uTFiDVcSgjk][HODYO design simple MFT on top of cabinets]]
+- [[https://www.youtube.com/watch?v=xwznCU2_95g][Badger workshop]]
+  - A simple torsion box, in the spirit of the PaulK workbench
+- [[https://www.youtube.com/watch?v=XWHN7h2RDVk][A slab]]
+ - The handles are useful if one needs to move it
+
+* Building an OSTSW
+
+- Torsion box designs
+- Slab designs
+- Cart base designs
+- Systainer top desing
+
+- Finishing the top before the holes are made
+  [[https://www.youtube.com/watch?v=DplAivn_3i0&list=PLFgcgmahLaNbBnWsdqYa1YQIBJQq1TorE][Feddie-Stool MFT]]
+
+- [[https://www.youtube.com/watch?v=_4jAqE6OZgk&list=PLFgcgmahLaNbBnWsdqYa1YQIBJQq1TorE&index=2][making the holes using LR32]]
+
+* Perforating the holes
+
+Perforating the holes seems to be the biggest challenge to building a OSTSW. The challenge is to
+make the holes perfectly orthogonal to the plane of the board and equidistant from each other.
+
+There are several documented techniques:
+
+- having already a MFT style top
+- using a CNC machine
+- using the Parf system
+- using the LF32 guide
+- using a peg board
+
+** Tools to make them
+
+- [[https://woodrave.com/shop?olsPage=products%252Fwoodrave-mft-boring-template][Woodrave MFT Boring template]]
+- [[https://www.youtube.com/watch?v=8sLtHYEo-nw][Parf system MK II]]
+
+** our design
+
+* Accessories
+
+- bench dogs
+- clamps
+- fences
+  - the festool's (requires their tracks too)
+  - bench-dogs
+- extensions
+
+- [[https://www.youtube.com/watch?v=SzsarjHF0Ms][Dan Pattison accessories for MPT]]
+
+* Tips and tricks on how to use a track saw
+
+
+* Jigs for a track saw
+
+* 3d printing 
